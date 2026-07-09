@@ -49,28 +49,28 @@ export default function App() {
 
   if (error) {
     return (
-      <div className="min-h-screen bg-gray-50 flex items-center justify-center px-4 font-sans text-gray-800">
-        <p className="text-red-600">Couldn&apos;t load today&apos;s puzzle: {error}</p>
+      <div className="min-h-screen bg-white flex items-center justify-center px-4 font-sans text-gray-900">
+        <p className="text-red-700 font-semibold">Couldn&apos;t load today&apos;s puzzle: {error}</p>
       </div>
     );
   }
 
   if (!puzzle) {
     return (
-      <div className="min-h-screen bg-gray-50 flex items-center justify-center px-4 font-sans text-gray-800">
-        <p className="text-gray-400">Loading today&apos;s puzzle...</p>
+      <div className="min-h-screen bg-white flex items-center justify-center px-4 font-sans text-gray-900">
+        <p className="text-gray-600">Loading today&apos;s puzzle...</p>
       </div>
     );
   }
 
   return (
-    <div className="min-h-screen bg-gray-50 flex flex-col items-center py-10 px-4 font-sans text-gray-800">
+    <div className="min-h-screen bg-white flex flex-col items-center py-10 px-4 font-sans text-gray-900">
       <div className="max-w-2xl w-full space-y-6">
 
         {/* Header section */}
         <div className="text-center space-y-2 mb-10">
-          <h1 className="text-4xl font-bold tracking-tight text-gray-900">Connections Hints</h1>
-          <p className="text-gray-500">Progressive hints for today&apos;s puzzle ({puzzle.date})</p>
+          <h1 className="text-4xl font-bold tracking-tight text-black">Connections Hints</h1>
+          <p className="text-gray-700">Progressive hints for today&apos;s puzzle ({puzzle.date})</p>
           <p className="text-sm bg-blue-100 text-blue-800 inline-block px-3 py-1 rounded-full mt-2 shadow-sm border border-blue-200">
             No spoilers! Reveal only what you need.
           </p>
@@ -81,7 +81,7 @@ export default function App() {
           {puzzle.categories.map((category, index) => {
             const state = revealState[index];
             const isFullyRevealed = state === 4;
-            const themeColorClass = isFullyRevealed ? levelColors[category.level] : "bg-white border-gray-200 text-gray-800";
+            const themeColorClass = isFullyRevealed ? levelColors[category.level] : "bg-white border-gray-300 text-gray-900";
 
             return (
               <div 
@@ -91,7 +91,7 @@ export default function App() {
                 <div className="flex justify-between items-start mb-4">
                   <div className="flex items-center gap-2">
                     {state === 0 ? <Lock className="w-5 h-5 text-gray-400" /> : <Unlock className={`w-5 h-5 ${isFullyRevealed ? 'opacity-70' : 'text-blue-500'}`} />}
-                    <h2 className="text-lg font-bold">
+                    <h2 className={`text-lg font-bold ${isFullyRevealed ? '' : 'text-gray-900'}`}>
                       {state > 0 ? category.title : `Category ${index + 1}`}
                     </h2>
                   </div>
@@ -110,7 +110,7 @@ export default function App() {
                 {/* Progressive Hints Area */}
                 <div className="min-h-[60px] flex flex-col justify-center border-t border-black/10 pt-4">
                   {state === 0 && (
-                    <p className="text-gray-400 italic text-sm text-center">Hidden. Click &quot;Reveal Theme&quot; for a gentle nudge.</p>
+                    <p className="text-gray-500 italic text-sm text-center">Hidden. Click &quot;Reveal Theme&quot; for a gentle nudge.</p>
                   )}
                   
                   {state > 0 && (
@@ -143,9 +143,9 @@ export default function App() {
         {/* Action footer */}
         {revealState.some(state => state > 0) && (
           <div className="text-center pt-8">
-            <button 
+            <button
               onClick={() => setRevealState(puzzle.categories.map(() => 0))}
-              className="text-gray-400 hover:text-gray-600 underline text-sm transition-colors"
+              className="text-gray-600 hover:text-gray-800 underline text-sm transition-colors"
             >
               Reset all hints
             </button>
