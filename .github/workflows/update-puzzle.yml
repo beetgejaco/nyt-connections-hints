@@ -2,8 +2,10 @@ name: Update daily puzzle
 
 on:
   schedule:
-    # 05:10 UTC covers midnight ET in both EST (UTC-5) and EDT (UTC-4)
-    - cron: '10 5 * * *'
+    # 04:05 UTC catches midnight EDT (04:00 UTC) with 5 min buffer
+    # 05:05 UTC catches midnight EST (05:00 UTC) with 5 min buffer
+    - cron: '5 4 * * *'
+    - cron: '5 5 * * *'
   workflow_dispatch: {}
 
 permissions:
