@@ -1,0 +1,46 @@
+{
+  "date": "2026-07-09",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "NON-ALCOHOLIC DESIGNATORS",
+      "level": 1,
+      "words": [
+        "NA",
+        "SPIRIT-FREE",
+        "VIRGIN",
+        "ZERO-PROOF"
+      ]
+    },
+    {
+      "title": "MUSIC PUBLICATIONS",
+      "level": 2,
+      "words": [
+        "BILLBOARD",
+        "PITCHFORK",
+        "ROLLING STONE",
+        "SPIN"
+      ]
+    },
+    {
+      "title": "KINDS OF RUGS",
+      "level": 3,
+      "words": [
+        "PERSIAN",
+        "PRAYER",
+        "SHAG",
+        "THROW"
+      ]
+    },
+    {
+      "title": "PONTIAC MODELS",
+      "level": 4,
+      "words": [
+        "FIREBIRD",
+        "G6",
+        "GRAND PRIX",
+        "TRANS AM"
+      ]
+    }
+  ]
+}
