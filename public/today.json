@@ -1,45 +1,45 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "NON-ALCOHOLIC DESIGNATORS",
+      "title": "SMARTPHONE SETTINGS",
       "level": 1,
       "words": [
-        "NA",
-        "SPIRIT-FREE",
-        "VIRGIN",
-        "ZERO-PROOF"
+        "AIRPLANE MODE",
+        "DO NOT DISTURB",
+        "HOTSPOT",
+        "LOCATION SERVICES"
       ]
     },
     {
-      "title": "MUSIC PUBLICATIONS",
+      "title": "DESSERT MENU DESCRIPTORS",
       "level": 2,
       "words": [
-        "BILLBOARD",
-        "PITCHFORK",
-        "ROLLING STONE",
-        "SPIN"
+        "DECADENT",
+        "FRESH-BAKED",
+        "MOLTEN",
+        "À LA MODE"
       ]
     },
     {
-      "title": "KINDS OF RUGS",
+      "title": "'80S SYNTH-POP BANDS",
       "level": 3,
       "words": [
-        "PERSIAN",
-        "PRAYER",
-        "SHAG",
-        "THROW"
+        "DEPECHE MODE",
+        "ERASURE",
+        "NEW ORDER",
+        "PET SHOP BOYS"
       ]
     },
     {
-      "title": "PONTIAC MODELS",
+      "title": "STARTING WITH BASEBALL CALLS",
       "level": 4,
       "words": [
-        "FIREBIRD",
-        "G6",
-        "GRAND PRIX",
-        "TRANS AM"
+        "BALL GOWN",
+        "OUTKAST",
+        "SAFE MODE",
+        "STRIKE A POSE"
       ]
     }
   ]
