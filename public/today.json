@@ -1,45 +1,45 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "SMARTPHONE SETTINGS",
+      "title": "CIRCUS EQUIPMENT",
       "level": 1,
       "words": [
-        "AIRPLANE MODE",
-        "DO NOT DISTURB",
-        "HOTSPOT",
-        "LOCATION SERVICES"
+        "CANNON",
+        "STILTS",
+        "TRAPEZE",
+        "UNICYCLE"
       ]
     },
     {
-      "title": "DESSERT MENU DESCRIPTORS",
+      "title": "UNDISTURBED, AS WATER",
       "level": 2,
       "words": [
-        "DECADENT",
-        "FRESH-BAKED",
-        "MOLTEN",
-        "À LA MODE"
+        "CALM",
+        "FLAT",
+        "GLASSY",
+        "STILL"
       ]
     },
     {
-      "title": "'80S SYNTH-POP BANDS",
+      "title": "\"TOY STORY\" CHARACTERS",
       "level": 3,
       "words": [
-        "DEPECHE MODE",
-        "ERASURE",
-        "NEW ORDER",
-        "PET SHOP BOYS"
+        "BO PEEP",
+        "JESSIE",
+        "SLINKY",
+        "WOODY"
       ]
     },
     {
-      "title": "STARTING WITH BASEBALL CALLS",
+      "title": "DOUBLE LETTERS APPEARING IN THAT LETTER'S ALPHABETICAL POSITION",
       "level": 4,
       "words": [
-        "BALL GOWN",
-        "OUTKAST",
-        "SAFE MODE",
-        "STRIKE A POSE"
+        "AARDVARK",
+        "BOCCE",
+        "EBBING",
+        "TWIDDLE"
       ]
     }
   ]
