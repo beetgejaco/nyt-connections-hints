@@ -1,45 +1,45 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "INTERROGATE",
+      "title": "CONTRACT",
       "level": 1,
       "words": [
-        "EXAMINE",
-        "GRILL",
-        "PUMP",
-        "QUESTION"
+        "AGREEMENT",
+        "BARGAIN",
+        "DEAL",
+        "UNDERSTANDING"
       ]
     },
     {
-      "title": "THINGS WITH HANDLES",
+      "title": "EDIT MENU OPTIONS",
       "level": 2,
       "words": [
-        "BUCKET",
-        "DRAWER",
-        "MUG",
-        "UMBRELLA"
+        "COPY",
+        "CUT",
+        "DELETE",
+        "PASTE"
       ]
     },
     {
-      "title": "FICTIONAL CATS",
+      "title": "KINDS OF BASKETS",
       "level": 3,
       "words": [
-        "FIGARO",
-        "PUSS",
-        "SALEM",
-        "TOM"
+        "EASTER",
+        "GROCERY",
+        "LAUNDRY",
+        "PICNIC"
       ]
     },
     {
-      "title": "STARTING WITH SMOOCHES",
+      "title": "SYMBOLIZED WITH ARROWS",
       "level": 4,
       "words": [
-        "BUSSIN",
-        "KISSER",
-        "PECKISH",
-        "SMACKDOWN"
+        "RECYCLING",
+        "SHUFFLE",
+        "THIS SIDE UP",
+        "U-TURN"
       ]
     }
   ]
