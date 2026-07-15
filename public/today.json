@@ -1,45 +1,45 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "CONTRACT",
+      "title": "TERMS FOR THE LEGAL SYSTEM",
       "level": 1,
       "words": [
-        "AGREEMENT",
-        "BARGAIN",
-        "DEAL",
-        "UNDERSTANDING"
+        "BAR",
+        "BENCH",
+        "COURT",
+        "TRIBUNAL"
       ]
     },
     {
-      "title": "EDIT MENU OPTIONS",
+      "title": "THINGS WITH LACES",
       "level": 2,
       "words": [
-        "COPY",
-        "CUT",
-        "DELETE",
-        "PASTE"
+        "BASEBALL GLOVE",
+        "CORSET",
+        "FOOTBALL",
+        "SHOE"
       ]
     },
     {
-      "title": "KINDS OF BASKETS",
+      "title": "KINDS OF SPORTS",
       "level": 3,
       "words": [
-        "EASTER",
-        "GROCERY",
-        "LAUNDRY",
-        "PICNIC"
+        "EXTREME",
+        "MOTOR",
+        "RACKET",
+        "WATER"
       ]
     },
     {
-      "title": "SYMBOLIZED WITH ARROWS",
+      "title": "WORDS BEFORE \"ROOM\" TO INDICATE EXTRA SPACE",
       "level": 4,
       "words": [
-        "RECYCLING",
-        "SHUFFLE",
-        "THIS SIDE UP",
-        "U-TURN"
+        "BREATHING",
+        "ELBOW",
+        "HEAD",
+        "WIGGLE"
       ]
     }
   ]
