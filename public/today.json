@@ -1,45 +1,45 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "SKINCARE PRODUCTS",
+      "title": "GRAND FINALE",
       "level": 1,
       "words": [
-        "CLAY MASK",
-        "EYE CREAM",
-        "PEEL",
-        "TONER"
+        "EPILOGUE",
+        "FAREWELL",
+        "LAST DANCE",
+        "SWAN SONG"
       ]
     },
     {
-      "title": "SHADES OF BLACK",
+      "title": "SEEN IN AN ARCADE",
       "level": 2,
       "words": [
-        "CHARCOAL",
-        "INK",
-        "JET",
-        "PITCH"
+        "CRANE GAME",
+        "PINBALL",
+        "TICKETS",
+        "TOKENS"
       ]
     },
     {
-      "title": "ASSOCIATED WITH PRECISION",
+      "title": "FOUR GROUPS OF FOUR",
       "level": 3,
       "words": [
-        "BULLSEYE",
-        "CLOCKWORK",
-        "LASER",
-        "NEEDLE"
+        "CARDINAL DIRECTIONS",
+        "CLASSICAL ELEMENTS",
+        "SEASONS",
+        "SUITS"
       ]
     },
     {
-      "title": "STARTING WITH TINY MARKS",
+      "title": "ENDING IN PARTS OF A CAR",
       "level": 4,
       "words": [
-        "DOT MATRIX",
-        "PERIOD PIECE",
-        "POINT BREAK",
-        "SPOT REMOVER"
+        "PLOT SPOILER",
+        "ROBIN HOOD",
+        "SATIRES",
+        "TREE TRUNK"
       ]
     }
   ]
