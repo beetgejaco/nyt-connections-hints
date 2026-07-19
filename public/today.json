@@ -1,45 +1,45 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "COMMIT A BASKETBALL VIOLATION",
+      "title": "CIRCUIT COMPONENTS",
       "level": 1,
       "words": [
-        "CARRY",
-        "DOUBLE DRIBBLE",
-        "GOALTEND",
-        "TRAVEL"
+        "BREAKER",
+        "FUSE",
+        "RELAY",
+        "SWITCH"
       ]
     },
     {
-      "title": "BELIEF",
+      "title": "DIGITAL COUPLING VERBS",
       "level": 2,
       "words": [
-        "ATTITUDE",
-        "MIND",
-        "OPINION",
-        "VIEW"
+        "CONNECT",
+        "JOIN",
+        "PAIR",
+        "SYNC"
       ]
     },
     {
-      "title": "THINGS TRACKED IN VIDEO GAMES",
+      "title": "THINGS TOILETS DO",
       "level": 3,
       "words": [
-        "HEALTH",
-        "LIVES",
-        "SCORE",
-        "TIME"
+        "DRAIN",
+        "FLUSH",
+        "REFILL",
+        "SWIRL"
       ]
     },
     {
-      "title": "WORDS AFTER \"POP\"",
+      "title": "___ FACE EXPRESSIONS",
       "level": 4,
       "words": [
-        "CULTURE",
-        "FLY",
-        "QUIZ",
-        "TART"
+        "GAME",
+        "LONG",
+        "POKER",
+        "STRAIGHT"
       ]
     }
   ]
