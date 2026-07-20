@@ -1,45 +1,45 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "CIRCUIT COMPONENTS",
+      "title": "ANNOUNCE",
       "level": 1,
       "words": [
-        "BREAKER",
-        "FUSE",
-        "RELAY",
-        "SWITCH"
+        "BLARE",
+        "HERALD",
+        "SOUND",
+        "TRUMPET"
       ]
     },
     {
-      "title": "DIGITAL COUPLING VERBS",
+      "title": "THINGS TO CLICK",
       "level": 2,
       "words": [
-        "CONNECT",
-        "JOIN",
-        "PAIR",
-        "SYNC"
+        "BUTTON",
+        "ICON",
+        "LINK",
+        "MENU"
       ]
     },
     {
-      "title": "THINGS TOILETS DO",
+      "title": "ASSOCIATED WITH PEARLS",
       "level": 3,
       "words": [
-        "DRAIN",
-        "FLUSH",
-        "REFILL",
-        "SWIRL"
+        "BUBBLE TEA",
+        "OYSTER",
+        "SWINE",
+        "WISDOM"
       ]
     },
     {
-      "title": "___ FACE EXPRESSIONS",
+      "title": "STARTING WITH ALCOHOLIC BEVERAGES",
       "level": 4,
       "words": [
-        "GAME",
-        "LONG",
-        "POKER",
-        "STRAIGHT"
+        "ALEXA",
+        "MEADOW",
+        "PORTOBELLO",
+        "SAKES"
       ]
     }
   ]
