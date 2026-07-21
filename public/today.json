@@ -1,45 +1,45 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "ANNOUNCE",
+      "title": "KINDS OF TOPS",
       "level": 1,
       "words": [
-        "BLARE",
-        "HERALD",
-        "SOUND",
-        "TRUMPET"
+        "CROP",
+        "HALTER",
+        "TANK",
+        "TUBE"
       ]
     },
     {
-      "title": "THINGS TO CLICK",
+      "title": "SOFTWARE DOWNLOADS",
       "level": 2,
       "words": [
-        "BUTTON",
-        "ICON",
-        "LINK",
-        "MENU"
+        "APP",
+        "DRIVER",
+        "EXTENSION",
+        "PLUGIN"
       ]
     },
     {
-      "title": "ASSOCIATED WITH PEARLS",
+      "title": "ELEMENTS OF A MUSICAL",
       "level": 3,
       "words": [
-        "BUBBLE TEA",
-        "OYSTER",
-        "SWINE",
-        "WISDOM"
+        "BOOK",
+        "LYRICS",
+        "MUSIC",
+        "ORCHESTRATION"
       ]
     },
     {
-      "title": "STARTING WITH ALCOHOLIC BEVERAGES",
+      "title": "TELE___",
       "level": 4,
       "words": [
-        "ALEXA",
-        "MEADOW",
-        "PORTOBELLO",
-        "SAKES"
+        "GRAM",
+        "KINESIS",
+        "PROMPTER",
+        "VISION"
       ]
     }
   ]
