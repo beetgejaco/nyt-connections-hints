@@ -1,45 +1,45 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "KINDS OF TOPS",
+      "title": "SYMPTOMS OF AN ALLERGIC REACTION",
       "level": 1,
       "words": [
-        "CROP",
-        "HALTER",
-        "TANK",
-        "TUBE"
+        "HIVES",
+        "ITCHING",
+        "RASH",
+        "REDNESS"
       ]
     },
     {
-      "title": "SOFTWARE DOWNLOADS",
+      "title": "ON A GOLF SCORECARD",
       "level": 2,
       "words": [
-        "APP",
-        "DRIVER",
-        "EXTENSION",
-        "PLUGIN"
+        "HOLE",
+        "PAR",
+        "SCORE",
+        "STROKES"
       ]
     },
     {
-      "title": "ELEMENTS OF A MUSICAL",
+      "title": "PLATFORM-SPECIFIC POSTS",
       "level": 3,
       "words": [
-        "BOOK",
-        "LYRICS",
-        "MUSIC",
-        "ORCHESTRATION"
+        "PINS",
+        "SNAPS",
+        "TWEETS",
+        "VINES"
       ]
     },
     {
-      "title": "TELE___",
+      "title": "FEATURES OF A ZEBRA",
       "level": 4,
       "words": [
-        "GRAM",
-        "KINESIS",
-        "PROMPTER",
-        "VISION"
+        "HOOVES",
+        "MANE",
+        "TAIL",
+        "WHITE STRIPES"
       ]
     }
   ]
