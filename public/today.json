@@ -1,45 +1,45 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "GYMNASTICS APPARATUS",
+      "title": "COMMAND",
       "level": 1,
       "words": [
-        "BEAM",
-        "HORSE",
-        "RINGS",
-        "VAULT"
+        "CAPTAIN",
+        "DIRECT",
+        "HEAD",
+        "LEAD"
       ]
     },
     {
-      "title": "LONG TAPERED THINGS",
+      "title": "HOW DO YOU LIKE THEM APPLES",
       "level": 2,
       "words": [
-        "CARROT",
-        "ICICLE",
-        "KNITTING NEEDLE",
-        "STALACTITE"
+        "EMPIRE",
+        "FUJI",
+        "GALA",
+        "HONEYCRISP"
       ]
     },
     {
-      "title": "KINDS OF SHIFTS",
+      "title": "SHOE BRANDS STARTING WITH \"C\"",
       "level": 3,
       "words": [
-        "DOPPLER",
-        "GRAVEYARD",
-        "PARADIGM",
-        "STICK"
+        "CAMPER",
+        "CLARKS",
+        "CONVERSE",
+        "CROCS"
       ]
     },
     {
-      "title": "ICONS ON A SHOPPING SITE",
+      "title": "STARTING WITH PALINDROMIC NAMES",
       "level": 4,
       "words": [
-        "BELL",
-        "CART",
-        "HEART",
-        "MAGNIFYING GLASS"
+        "ANNAPOLIS",
+        "BOBSLED",
+        "EVEREST",
+        "OTTOMAN"
       ]
     }
   ]
