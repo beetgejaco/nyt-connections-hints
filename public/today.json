@@ -1,45 +1,45 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "COMMAND",
+      "title": "FASTENERS",
       "level": 1,
       "words": [
-        "CAPTAIN",
-        "DIRECT",
-        "HEAD",
-        "LEAD"
+        "NAIL",
+        "RIVET",
+        "SCREW",
+        "STAPLE"
       ]
     },
     {
-      "title": "HOW DO YOU LIKE THEM APPLES",
+      "title": "NONDESCRIPT",
       "level": 2,
       "words": [
-        "EMPIRE",
-        "FUJI",
-        "GALA",
-        "HONEYCRISP"
+        "BASIC",
+        "MID",
+        "PLAIN",
+        "VANILLA"
       ]
     },
     {
-      "title": "SHOE BRANDS STARTING WITH \"C\"",
+      "title": "UNITS OF WISDOM",
       "level": 3,
       "words": [
-        "CAMPER",
-        "CLARKS",
-        "CONVERSE",
-        "CROCS"
+        "GEM",
+        "NUGGET",
+        "PEARL",
+        "WORD"
       ]
     },
     {
-      "title": "STARTING WITH PALINDROMIC NAMES",
+      "title": "___BOARDS IN A CLASSROOM",
       "level": 4,
       "words": [
-        "ANNAPOLIS",
-        "BOBSLED",
-        "EVEREST",
-        "OTTOMAN"
+        "BLACK",
+        "CHALK",
+        "CORK",
+        "WHITE"
       ]
     }
   ]
