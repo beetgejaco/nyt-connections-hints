@@ -1,45 +1,45 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "FASTENERS",
+      "title": "VIRTUOUS",
       "level": 1,
       "words": [
-        "NAIL",
-        "RIVET",
-        "SCREW",
-        "STAPLE"
+        "FAIR",
+        "GOOD",
+        "JUST",
+        "RIGHT"
       ]
     },
     {
-      "title": "NONDESCRIPT",
+      "title": "ACTIVITIES WITH MULTIPLE BALLS",
       "level": 2,
       "words": [
-        "BASIC",
-        "MID",
-        "PLAIN",
-        "VANILLA"
+        "BEER PONG",
+        "BINGO",
+        "JUGGLING",
+        "POOL"
       ]
     },
     {
-      "title": "UNITS OF WISDOM",
+      "title": "CRUISE LINES",
       "level": 3,
       "words": [
-        "GEM",
-        "NUGGET",
-        "PEARL",
-        "WORD"
+        "CARNIVAL",
+        "CELEBRITY",
+        "PRINCESS",
+        "VIKING"
       ]
     },
     {
-      "title": "___BOARDS IN A CLASSROOM",
+      "title": "ON THE ___, TO MEAN \"PRECISE\"",
       "level": 4,
       "words": [
-        "BLACK",
-        "CHALK",
-        "CORK",
-        "WHITE"
+        "DOT",
+        "MARK",
+        "MONEY",
+        "NOSE"
       ]
     }
   ]
