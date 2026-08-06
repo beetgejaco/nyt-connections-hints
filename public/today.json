@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "NAVIGATE",
+      "title": "CLASSIC WOODEN TOYS",
       "level": 1,
       "words": [
-        "DRIVE",
-        "MANEUVER",
-        "PILOT",
-        "STEER"
+        "ALPHABET BLOCKS",
+        "CUP-AND-BALL",
+        "JACOB'S LADDER",
+        "LINCOLN LOGS"
       ]
     },
     {
-      "title": "JEANS BRANDS",
+      "title": "PLACES WITH LANES",
       "level": 2,
       "words": [
-        "DIESEL",
-        "GAP",
-        "LUCKY",
-        "WRANGLER"
+        "BOWLING ALLEY",
+        "FREEWAY",
+        "SUPERMARKET",
+        "SWIMMING POOL"
       ]
     },
     {
-      "title": "HOUSE STYLES",
+      "title": "ICONIC ROMAN LANDMARKS",
       "level": 3,
       "words": [
-        "CAPE COD",
-        "MISSION",
-        "RANCH",
-        "TUDOR"
+        "COLOSSEUM",
+        "PANTHEON",
+        "SPANISH STEPS",
+        "TREVI FOUNTAIN"
       ]
     },
     {
-      "title": "WHAT \"STOCK\" MIGHT REFER TO",
+      "title": "PLACES WITH NETS",
       "level": 4,
       "words": [
-        "BROTH",
-        "CATTLE",
-        "INVESTMENT",
-        "MERCHANDISE"
+        "BARCLAYS CENTER",
+        "FISHING BOAT",
+        "HOCKEY RINK",
+        "TENNIS COURT"
       ]
     }
   ]
