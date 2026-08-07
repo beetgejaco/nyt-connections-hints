@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "CLASSIC WOODEN TOYS",
+      "title": "COMPONENTS OF A CANDLE",
       "level": 1,
       "words": [
-        "ALPHABET BLOCKS",
-        "CUP-AND-BALL",
-        "JACOB'S LADDER",
-        "LINCOLN LOGS"
+        "FRAGRANCE",
+        "JAR",
+        "WAX",
+        "WICK"
       ]
     },
     {
-      "title": "PLACES WITH LANES",
+      "title": "COLD THINGS",
       "level": 2,
       "words": [
-        "BOWLING ALLEY",
-        "FREEWAY",
-        "SUPERMARKET",
-        "SWIMMING POOL"
+        "LIQUID NITROGEN",
+        "REFRIGERATOR",
+        "SNOW",
+        "SUNDAE"
       ]
     },
     {
-      "title": "ICONIC ROMAN LANDMARKS",
+      "title": "PARTS OF AN ELEVATOR",
       "level": 3,
       "words": [
-        "COLOSSEUM",
-        "PANTHEON",
-        "SPANISH STEPS",
-        "TREVI FOUNTAIN"
+        "BUTTONS",
+        "CABLES",
+        "MOTOR",
+        "SHAFT"
       ]
     },
     {
-      "title": "PLACES WITH NETS",
+      "title": "STARTING WITH MALE ANIMALS",
       "level": 4,
       "words": [
-        "BARCLAYS CENTER",
-        "FISHING BOAT",
-        "HOCKEY RINK",
-        "TENNIS COURT"
+        "BUCKYBALL",
+        "JACKPOT",
+        "RAMBO",
+        "TOMATILLO"
       ]
     }
   ]
