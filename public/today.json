@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "EXHAUSTED",
+      "title": "MUSICAL PERFORMANCE",
       "level": 1,
       "words": [
-        "BEAT",
-        "FRIED",
-        "SPENT",
-        "WORN OUT"
+        "CONCERT",
+        "GIG",
+        "SET",
+        "SHOW"
       ]
     },
     {
-      "title": "SEGMENT",
+      "title": "PARTICIPANT",
       "level": 2,
       "words": [
-        "LEG",
-        "PHASE",
-        "STAGE",
-        "STRETCH"
+        "ACTOR",
+        "AGENT",
+        "PARTY",
+        "PLAYER"
       ]
     },
     {
-      "title": "ENDING IN UNITS OF LENGTH",
+      "title": "FAMILY RELATIONSHIP MODIFIERS",
       "level": 3,
       "words": [
-        "CHAMOMILE",
-        "GRINCH",
-        "HOTFOOT",
-        "LANYARD"
+        "GRAND",
+        "GREAT",
+        "HALF",
+        "STEP"
       ]
     },
     {
-      "title": "ENDING IN SYNONYMS FOR FOLLOW SECRETLY",
+      "title": "DESCRIPTORS FOR OUR HUMAN ANCESTORS",
       "level": 4,
       "words": [
-        "BEANSTALK",
-        "EYESHADOW",
-        "HIGHTAIL",
-        "SOUNDTRACK"
+        "FROM NEANDER",
+        "HANDY",
+        "UPRIGHT",
+        "WISE"
       ]
     }
   ]
