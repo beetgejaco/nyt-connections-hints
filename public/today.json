@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "MUSICAL PERFORMANCE",
+      "title": "VIDEO CALL PLATFORMS",
       "level": 1,
       "words": [
-        "CONCERT",
-        "GIG",
-        "SET",
-        "SHOW"
+        "HUDDLE",
+        "MEET",
+        "TEAMS",
+        "ZOOM"
       ]
     },
     {
-      "title": "PARTICIPANT",
+      "title": "SPREADSHEET FEATURES",
       "level": 2,
       "words": [
-        "ACTOR",
-        "AGENT",
-        "PARTY",
-        "PLAYER"
+        "FORMULA",
+        "FUNCTION",
+        "MACRO",
+        "SCRIPT"
       ]
     },
     {
-      "title": "FAMILY RELATIONSHIP MODIFIERS",
+      "title": "FIRST NAMES OF COUNTRY MUSIC LEGENDS",
       "level": 3,
       "words": [
-        "GRAND",
-        "GREAT",
-        "HALF",
-        "STEP"
+        "DOLLY",
+        "JOHNNY",
+        "PATSY",
+        "WILLIE"
       ]
     },
     {
-      "title": "DESCRIPTORS FOR OUR HUMAN ANCESTORS",
+      "title": "STARTING WITH PETS",
       "level": 4,
       "words": [
-        "FROM NEANDER",
-        "HANDY",
-        "UPRIGHT",
-        "WISE"
+        "BIRDIE",
+        "CATTLE",
+        "DOGIE",
+        "FISHEYE"
       ]
     }
   ]
