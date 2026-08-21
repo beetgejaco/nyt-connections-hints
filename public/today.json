@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "KINDS OF PIZZA",
+      "title": "THINGS MOST ANIMALS NEED",
       "level": 1,
       "words": [
-        "DIAVOLA",
-        "HAWAIIAN",
-        "MEAT LOVERS",
-        "WHITE"
+        "NUTRITION",
+        "OXYGEN",
+        "SLEEP",
+        "WATER"
       ]
     },
     {
-      "title": "KINDS OF NUMBERS",
+      "title": "CALLS TO BEGIN A PERFORMANCE",
       "level": 2,
       "words": [
-        "ATOMIC",
-        "SERIAL",
-        "SOCIAL SECURITY",
-        "TELEPHONE"
+        "ACTION",
+        "CURTAIN UP",
+        "PLACES",
+        "SHOWTIME"
       ]
     },
     {
-      "title": "SIMILARLY SHAPED TYPOGRAPHICAL MARKS",
+      "title": "___ KIDS",
       "level": 3,
       "words": [
-        "APOSTROPHE",
-        "CEDILLA",
-        "COMMA",
-        "OKINA"
+        "COMEBACK",
+        "KARATE",
+        "SUNDANCE",
+        "WIMPY"
       ]
     },
     {
-      "title": "STARTING WITH CHINESE ZODIAC ANIMALS",
+      "title": "ONCE IN A ___",
       "level": 4,
       "words": [
-        "DRAGONFLY",
-        "OXFORD",
-        "PIGMENT",
-        "RATCHET"
+        "BLUE MOON",
+        "GENERATION",
+        "LIFETIME",
+        "WHILE"
       ]
     }
   ]
