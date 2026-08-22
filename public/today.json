@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "THINGS MOST ANIMALS NEED",
+      "title": "CARPENTRY TOOLS",
       "level": 1,
       "words": [
-        "NUTRITION",
-        "OXYGEN",
-        "SLEEP",
-        "WATER"
+        "CHISEL",
+        "HAMMER",
+        "PLANE",
+        "SAW"
       ]
     },
     {
-      "title": "CALLS TO BEGIN A PERFORMANCE",
+      "title": "KINDS OF MELON",
       "level": 2,
       "words": [
-        "ACTION",
-        "CURTAIN UP",
-        "PLACES",
-        "SHOWTIME"
+        "BITTER",
+        "MUSK",
+        "WATER",
+        "WINTER"
       ]
     },
     {
-      "title": "___ KIDS",
+      "title": "GARDEN HOSE SETTINGS",
       "level": 3,
       "words": [
-        "COMEBACK",
-        "KARATE",
-        "SUNDANCE",
-        "WIMPY"
+        "CONE",
+        "JET",
+        "MIST",
+        "SHOWER"
       ]
     },
     {
-      "title": "ONCE IN A ___",
+      "title": "___ GIRLS OF POP CULTURE",
       "level": 4,
       "words": [
-        "BLUE MOON",
-        "GENERATION",
-        "LIFETIME",
-        "WHILE"
+        "GILMORE",
+        "GOLDEN",
+        "MEAN",
+        "SPICE"
       ]
     }
   ]
