@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "CARPENTRY TOOLS",
+      "title": "POTENTIALLY EXPLOSIVE THINGS",
       "level": 1,
       "words": [
-        "CHISEL",
-        "HAMMER",
-        "PLANE",
-        "SAW"
+        "POWDER KEG",
+        "TIME BOMB",
+        "TINDERBOX",
+        "VOLCANO"
       ]
     },
     {
-      "title": "KINDS OF MELON",
+      "title": "DOUBLE VOWELS",
       "level": 2,
       "words": [
-        "BITTER",
-        "MUSK",
-        "WATER",
-        "WINTER"
+        "ANTIFREEZE",
+        "BAZAAR",
+        "SKIING",
+        "VACUUM"
       ]
     },
     {
-      "title": "GARDEN HOSE SETTINGS",
+      "title": "MADE WITH POTATOES",
       "level": 3,
       "words": [
-        "CONE",
-        "JET",
-        "MIST",
-        "SHOWER"
+        "HOME FRIES",
+        "POTATO BATTERY",
+        "VISCHYSSOISE",
+        "VODKA"
       ]
     },
     {
-      "title": "___ GIRLS OF POP CULTURE",
+      "title": "HOUSEHOLD STAIN REMOVERS",
       "level": 4,
       "words": [
-        "GILMORE",
-        "GOLDEN",
-        "MEAN",
-        "SPICE"
+        "BAKING SODA",
+        "CLUB SODA",
+        "HYDROGEN PEROXIDE",
+        "VINEGAR"
       ]
     }
   ]
