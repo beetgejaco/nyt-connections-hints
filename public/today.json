@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "FISH",
+      "title": "SURFACE-LEVEL",
       "level": 1,
       "words": [
-        "MULLET",
-        "PIKE",
-        "SOLE",
-        "TANG"
+        "COSMETIC",
+        "ONE-DIMENSIONAL",
+        "SKIN-DEEP",
+        "SUPERFICIAL"
       ]
     },
     {
-      "title": "PRINCIPAL",
+      "title": "SCI-FI PHENOMENA",
       "level": 2,
       "words": [
-        "ARCH",
-        "CHIEF",
-        "MAIN",
-        "PRIME"
+        "HYPERSPACE",
+        "PARALLEL UNIVERSE",
+        "TELEPORTATION",
+        "TIME WARP"
       ]
     },
     {
-      "title": "PRO-WRESTLING LINGO",
+      "title": "STEPHEN KING FILM ADAPTATIONS, WITH \"THE\"",
       "level": 3,
       "words": [
-        "FACE",
-        "HEEL",
-        "JOBBER",
-        "KAYFABE"
+        "GREEN MILE",
+        "LONG WALK",
+        "RUNNING MAN",
+        "SHAWSHANK REDEMPTION"
       ]
     },
     {
-      "title": "LETTER HOMOPHONE PLUS TENNIS TERM",
+      "title": "ENDING IN ICE CREAM ORDERS",
       "level": 4,
       "words": [
-        "BESET",
-        "DESERVE",
-        "EX-LOVE",
-        "EYELET"
+        "HARLEM SHAKE",
+        "INSIDE SCOOP",
+        "LICKETY-SPLIT",
+        "TRAFFIC CONE"
       ]
     }
   ]
