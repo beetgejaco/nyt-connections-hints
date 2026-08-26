@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "SURFACE-LEVEL",
+      "title": "\"THERE YOU HAVE IT!\"",
       "level": 1,
       "words": [
-        "COSMETIC",
-        "ONE-DIMENSIONAL",
-        "SKIN-DEEP",
-        "SUPERFICIAL"
+        "BEHOLD",
+        "PRESTO",
+        "SHAZAM",
+        "VOILÀ"
       ]
     },
     {
-      "title": "SCI-FI PHENOMENA",
+      "title": "KNACK",
       "level": 2,
       "words": [
-        "HYPERSPACE",
-        "PARALLEL UNIVERSE",
-        "TELEPORTATION",
-        "TIME WARP"
+        "FORTE",
+        "GIFT",
+        "STRENGTH",
+        "TALENT"
       ]
     },
     {
-      "title": "STEPHEN KING FILM ADAPTATIONS, WITH \"THE\"",
+      "title": "WHAT \"P\" MIGHT STAND FOR",
       "level": 3,
       "words": [
-        "GREEN MILE",
-        "LONG WALK",
-        "RUNNING MAN",
-        "SHAWSHANK REDEMPTION"
+        "PAGE",
+        "PARK",
+        "PHOSPHORUS",
+        "PIANO"
       ]
     },
     {
-      "title": "ENDING IN ICE CREAM ORDERS",
+      "title": "KEY ___",
       "level": 4,
       "words": [
-        "HARLEM SHAKE",
-        "INSIDE SCOOP",
-        "LICKETY-SPLIT",
-        "TRAFFIC CONE"
+        "CHAIN",
+        "LARGO",
+        "LIME",
+        "SIGNATURE"
       ]
     }
   ]
