@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "ELECTRIC THINGS",
+      "title": "BEDTIME PARTING WORDS",
       "level": 1,
       "words": [
-        "ELECTRIC EEL",
-        "LIGHTNING",
-        "LIVE WIRE",
-        "PIKACHU"
+        "NIGHT",
+        "REST EASY",
+        "SLEEP TIGHT",
+        "SWEET DREAMS"
       ]
     },
     {
-      "title": "MOVED TO TEARS",
+      "title": "PALINDROMES",
       "level": 2,
       "words": [
-        "CHOKED UP",
-        "EMOTIONAL",
-        "MISTY",
-        "OVERCOME"
+        "MOM",
+        "NOON",
+        "SIS",
+        "TOP SPOT"
       ]
     },
     {
-      "title": "SHADES OF GRAY",
+      "title": "MODERN ADD-ONS/COMBINING FORMS",
       "level": 3,
       "words": [
-        "ASH",
-        "DOVE",
-        "PEWTER",
-        "SLATE"
+        "BRO",
+        "CODED",
+        "ERA",
+        "MAXXING"
       ]
     },
     {
-      "title": "MUSIC GENRE PLUS STARTING LETTER",
+      "title": "TOP OF THE ___",
       "level": 4,
       "words": [
-        "BROCK",
-        "NEMO",
-        "SPUNK",
-        "WRAP"
+        "HOUR",
+        "LINE",
+        "MORNING",
+        "POPS"
       ]
     }
   ]
