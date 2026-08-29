@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "BEDTIME PARTING WORDS",
+      "title": "UNDER THE HOOD OF A CAR",
       "level": 1,
       "words": [
-        "NIGHT",
-        "REST EASY",
-        "SLEEP TIGHT",
-        "SWEET DREAMS"
+        "ALTERNATOR",
+        "BATTERY",
+        "ENGINE",
+        "RADIATOR"
       ]
     },
     {
-      "title": "PALINDROMES",
+      "title": "KINDS OF SALAD",
       "level": 2,
       "words": [
-        "MOM",
-        "NOON",
-        "SIS",
-        "TOP SPOT"
+        "CHOPPED",
+        "GREEK",
+        "HOUSE",
+        "WEDGE"
       ]
     },
     {
-      "title": "MODERN ADD-ONS/COMBINING FORMS",
+      "title": "KEYBOARD KEYS",
       "level": 3,
       "words": [
-        "BRO",
-        "CODED",
-        "ERA",
-        "MAXXING"
+        "CONTROL",
+        "ESCAPE",
+        "SHIFT",
+        "SPACE"
       ]
     },
     {
-      "title": "TOP OF THE ___",
+      "title": "STARTING WITH FIGURES FROM GREEK MYTH",
       "level": 4,
       "words": [
-        "HOUR",
-        "LINE",
-        "MORNING",
-        "POPS"
+        "AT LAST",
+        "HERALD",
+        "HYDRANT",
+        "TRITONE"
       ]
     }
   ]
