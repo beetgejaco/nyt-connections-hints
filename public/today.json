@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "UNDER THE HOOD OF A CAR",
+      "title": "EXERCISE FACILITIES",
       "level": 1,
       "words": [
-        "ALTERNATOR",
-        "BATTERY",
-        "ENGINE",
-        "RADIATOR"
+        "GYMNASIUM",
+        "HEALTH CLUB",
+        "REC CENTER",
+        "YMCA"
       ]
     },
     {
-      "title": "KINDS OF SALAD",
+      "title": "WINE ACCESSORIES",
       "level": 2,
       "words": [
-        "CHOPPED",
-        "GREEK",
-        "HOUSE",
-        "WEDGE"
+        "AERATOR",
+        "CORKSCREW",
+        "DECANTER",
+        "STOPPER"
       ]
     },
     {
-      "title": "KEYBOARD KEYS",
+      "title": "BRANDS WITH BUNNY RABBIT MASCOTS",
       "level": 3,
       "words": [
-        "CONTROL",
-        "ESCAPE",
-        "SHIFT",
-        "SPACE"
+        "CADBURY",
+        "ENERGIZER",
+        "PLAYBOY",
+        "TRIX"
       ]
     },
     {
-      "title": "STARTING WITH FIGURES FROM GREEK MYTH",
+      "title": "WORDS ON AN OLD WEST WANTED POSTER",
       "level": 4,
       "words": [
-        "AT LAST",
-        "HERALD",
-        "HYDRANT",
-        "TRITONE"
+        "ALIAS",
+        "OUTLAW",
+        "REWARD",
+        "WANTED"
       ]
     }
   ]
