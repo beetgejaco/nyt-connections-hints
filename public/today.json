@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "EXERCISE FACILITIES",
+      "title": "THINGS THAT COME IN TUBES",
       "level": 1,
       "words": [
-        "GYMNASIUM",
-        "HEALTH CLUB",
-        "REC CENTER",
-        "YMCA"
+        "LIPSTICK",
+        "POSTER",
+        "TENNIS BALLS",
+        "TOOTHPASTE"
       ]
     },
     {
-      "title": "WINE ACCESSORIES",
+      "title": "WARNINGS ON A SHIPPING BOX",
       "level": 2,
       "words": [
-        "AERATOR",
-        "CORKSCREW",
-        "DECANTER",
-        "STOPPER"
+        "FRAGILE",
+        "HEAVY",
+        "PERISHABLE",
+        "THIS SIDE UP"
       ]
     },
     {
-      "title": "BRANDS WITH BUNNY RABBIT MASCOTS",
+      "title": "HISTORICAL SOVEREIGN TITLES",
       "level": 3,
       "words": [
-        "CADBURY",
-        "ENERGIZER",
-        "PLAYBOY",
-        "TRIX"
+        "CALIPH",
+        "KHAN",
+        "PHARAOH",
+        "SHOGUN"
       ]
     },
     {
-      "title": "WORDS ON AN OLD WEST WANTED POSTER",
+      "title": "___ BOWL",
       "level": 4,
       "words": [
-        "ALIAS",
-        "OUTLAW",
-        "REWARD",
-        "WANTED"
+        "DUST",
+        "POKE",
+        "SALAD",
+        "SUPER"
       ]
     }
   ]
