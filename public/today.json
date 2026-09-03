@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "FLABBERGAST",
+      "title": "TWO SHAKES OF A LAMB'S TAIL",
       "level": 1,
       "words": [
-        "DAZZLE",
-        "FLOOR",
-        "STUN",
-        "WOW"
+        "BLINK",
+        "FLASH",
+        "HEARTBEAT",
+        "TRICE"
       ]
     },
     {
-      "title": "THINGS IN A VIOLIN CASE",
+      "title": "SHADES OF RED",
       "level": 2,
       "words": [
-        "BOW",
-        "MUTE",
-        "ROSIN",
-        "SHOULDER REST"
+        "CARMINE",
+        "CINNABAR",
+        "MAROON",
+        "VERMILLION"
       ]
     },
     {
-      "title": "___ DOGS (THAT ARE DOGS)",
+      "title": "TOY CAR BRANDS",
       "level": 3,
       "words": [
-        "HUNTING",
-        "RESCUE",
-        "SAUSAGE",
-        "SHEEP"
+        "HOT WHEELS",
+        "MATCHBOX",
+        "MICRO MACHINES",
+        "TONKA"
       ]
     },
     {
-      "title": "___ DOGS (THAT AREN'T DOGS)",
+      "title": "SPREADSHEET FUNCTIONS",
       "level": 4,
       "words": [
-        "CORN",
-        "PRAIRIE",
-        "SALTY",
-        "TOP"
+        "AVERAGE",
+        "COUNT",
+        "MAX",
+        "SUM"
       ]
     }
   ]
