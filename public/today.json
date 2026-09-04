@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "TWO SHAKES OF A LAMB'S TAIL",
+      "title": "SPHERICAL THINGS",
       "level": 1,
       "words": [
-        "BLINK",
-        "FLASH",
-        "HEARTBEAT",
-        "TRICE"
+        "BOWLING BALL",
+        "EYE",
+        "MOON",
+        "ORANGE"
       ]
     },
     {
-      "title": "SHADES OF RED",
+      "title": "FOOD WHOSE NAME IS TWO FOODS",
       "level": 2,
       "words": [
-        "CARMINE",
-        "CINNABAR",
-        "MAROON",
-        "VERMILLION"
+        "CAKE DONUT",
+        "CANDY CORN",
+        "CHERRY TOMATO",
+        "PIZZA PIE"
       ]
     },
     {
-      "title": "TOY CAR BRANDS",
+      "title": "KINDS OF EELS",
       "level": 3,
       "words": [
-        "HOT WHEELS",
-        "MATCHBOX",
-        "MICRO MACHINES",
-        "TONKA"
+        "CONGER",
+        "GULPER",
+        "MORAY",
+        "RIBBON"
       ]
     },
     {
-      "title": "SPREADSHEET FUNCTIONS",
+      "title": "ACCESSORIES INSIDE STARTING AND ENDING LETTERS",
       "level": 4,
       "words": [
-        "AVERAGE",
-        "COUNT",
-        "MAX",
-        "SUM"
+        "CRINGY",
+        "OPINE",
+        "STIED",
+        "THAT'S"
       ]
     }
   ]
