@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "MOVE UNSTEADILY",
+      "title": "UNRESTRICTED PERMISSION",
       "level": 1,
       "words": [
-        "SWAY",
-        "TODDLE",
-        "TOTTER",
-        "WOBBLE"
+        "BLANK CHECK",
+        "CARTE BLANCHE",
+        "FREE REIGN",
+        "FULL AUTHORITY"
       ]
     },
     {
-      "title": "BIRD ONOMATOPOEIA",
+      "title": "PLACES TO INSERT SOMETHING INTO ON A COMPUTER",
       "level": 2,
       "words": [
-        "COO",
-        "GOBBLE",
-        "HONK",
-        "WARBLE"
+        "CARD SLOT",
+        "HEADPHONE JACK",
+        "OPTICAL DRIVE",
+        "USB PORT"
       ]
     },
     {
-      "title": "___HEAD",
+      "title": "ABBREVIATIONS FOLLOWED BY REDUNDANT WORD",
       "level": 3,
       "words": [
-        "BOBBLE",
-        "HAMMER",
-        "JUG",
-        "SLEEPY"
+        "ATM MACHINE",
+        "LCD DISPLAY",
+        "PIN NUMBER",
+        "UPC CODE"
       ]
     },
     {
-      "title": "DESSERTS MINUS LAST LETTER",
+      "title": "ENDING WITH WAYS TO CARVE A SURFACE",
       "level": 4,
       "words": [
-        "COBBLE",
-        "PI",
-        "TAR",
-        "TORT"
+        "COURT SCRIBE",
+        "DIRECTOR'S CUT",
+        "PIZZA SLICE",
+        "SAT SCORE"
       ]
     }
   ]
