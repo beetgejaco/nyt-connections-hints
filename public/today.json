@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "CLASSIC AMERICAN PERFORMANCE CARS",
+      "title": "HARD TO UNDERSTAND",
       "level": 1,
       "words": [
-        "CORVETTE",
-        "FIREBIRD",
-        "MUSTANG",
-        "VIPER"
+        "BEWILDERING",
+        "ESOTERIC",
+        "INCOMPREHENSIBLE",
+        "OPAQUE"
       ]
     },
     {
-      "title": "FEATURES OF A MIME COSTUME",
+      "title": "WORDS WITH \"SMALL\" PREFIXES",
       "level": 2,
       "words": [
-        "BERET",
-        "GLOVES",
-        "STRIPES",
-        "SUSPENDERS"
+        "MICROBREWERY",
+        "MINIVAN",
+        "NANOTECHNOLOGY",
+        "PICOSECOND"
       ]
     },
     {
-      "title": "___ HEART",
+      "title": "HORROR MOVIES",
       "level": 3,
       "words": [
-        "ARTICHOKE",
-        "PURPLE",
-        "SACRED",
-        "TAKE TO"
+        "ARACHNOPHOBIA",
+        "HALLOWEEN",
+        "IT",
+        "SAW"
       ]
     },
     {
-      "title": "CANDY BARS PLUS A LETTER",
+      "title": "WORDS BEFORE \"FORCE\"",
       "level": 4,
       "words": [
-        "DOVES",
-        "MARSH",
-        "SKORT",
-        "TWIXT"
+        "BRUTE",
+        "ELECTROMAGNETIC",
+        "G",
+        "TASK"
       ]
     }
   ]
