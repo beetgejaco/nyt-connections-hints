@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "HARD TO UNDERSTAND",
+      "title": "CHEMICAL ELEMENTS",
       "level": 1,
       "words": [
-        "BEWILDERING",
-        "ESOTERIC",
-        "INCOMPREHENSIBLE",
-        "OPAQUE"
+        "ACTINIUM",
+        "KRYPTON",
+        "LEAD",
+        "SULFUR"
       ]
     },
     {
-      "title": "WORDS WITH \"SMALL\" PREFIXES",
+      "title": "WHAT YOU MIGHT SEE STICKING OUT OF A WINDOW",
       "level": 2,
       "words": [
-        "MICROBREWERY",
-        "MINIVAN",
-        "NANOTECHNOLOGY",
-        "PICOSECOND"
+        "AIR CONDITIONER",
+        "CATIO",
+        "CLOTHESLINE",
+        "FLOWER BOX"
       ]
     },
     {
-      "title": "HORROR MOVIES",
+      "title": "BRUCE SPRINGSTEEN CLASSICS",
       "level": 3,
       "words": [
-        "ARACHNOPHOBIA",
-        "HALLOWEEN",
-        "IT",
-        "SAW"
+        "ATLANTIC CITY",
+        "BADLANDS",
+        "BORN TO RUN",
+        "THUNDER ROAD"
       ]
     },
     {
-      "title": "WORDS BEFORE \"FORCE\"",
+      "title": "ENDING IN SYNONYMS FOR \"HAPPENING NOW\"",
       "level": 4,
       "words": [
-        "BRUTE",
-        "ELECTROMAGNETIC",
-        "G",
-        "TASK"
+        "ADULT CONTEMPORARY",
+        "ALTERNATING CURRENT",
+        "REPRESENT",
+        "SEXTANT"
       ]
     }
   ]
