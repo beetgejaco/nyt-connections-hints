@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "PEOPLE HIRED FOR AN EVENT",
+      "title": "WAYS TO PERSONALIZE A CAR",
       "level": 1,
       "words": [
-        "BAND",
-        "FLORIST",
-        "PHOTOGRAPHER",
-        "PLANNER"
+        "BUMPER STICKER",
+        "FUZZY DICE",
+        "HOOD ORNAMENT",
+        "VANITY PLATE"
       ]
     },
     {
-      "title": "INTERNALIZE",
+      "title": "PEOPLE IN AN ONLINE FORUM",
       "level": 2,
       "words": [
-        "ABSORB",
-        "DIGEST",
-        "PROCESS",
-        "TAKE IN"
+        "LURKER",
+        "POSTER",
+        "SPAMMER",
+        "TROLL"
       ]
     },
     {
-      "title": "WAYS TO PRACTICE SELF-CARE",
+      "title": "THINGS THAT BLINK",
       "level": 3,
       "words": [
-        "EXERCISE",
-        "JOURNAL",
-        "MEDITATE",
-        "UNPLUG"
+        "CURSOR",
+        "EYELIDS",
+        "SMOKE DETECTOR",
+        "TURN SIGNAL"
       ]
     },
     {
-      "title": "THINGS THAT ARE PUSHED METAPHORICALLY",
+      "title": "___ ALERT",
       "level": 4,
       "words": [
-        "AGENDA",
-        "ENVELOPE",
-        "LIMITS",
-        "LUCK"
+        "NERD",
+        "RED",
+        "SPOILER",
+        "WEATHER"
       ]
     }
   ]
