@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "LACKING IN FIRMNESS",
+      "title": "WATERBIRDS",
       "level": 1,
       "words": [
-        "DROOPY",
-        "FLACCID",
-        "SAGGING",
-        "SLACK"
+        "COOT",
+        "GOOSE",
+        "LOON",
+        "TEAL"
       ]
     },
     {
-      "title": "U.S. PRESIDENTS",
+      "title": "INFORMANT",
       "level": 2,
       "words": [
-        "CLEVELAND",
-        "GARFIELD",
-        "GRANT",
-        "MADISON"
+        "CANARY",
+        "RAT",
+        "SNITCH",
+        "STOOLIE"
       ]
     },
     {
-      "title": "WORDS THAT SOUND LIKE TWO LETTERS",
+      "title": "COMMON SINGLE-USE PLASTIC ITEMS",
       "level": 3,
       "words": [
-        "EMPTY",
-        "EXCESS",
-        "KEWPIE",
-        "ODIE"
+        "BAG",
+        "CUTLERY",
+        "STIRRER",
+        "STRAW"
       ]
     },
     {
-      "title": "ENDING IN ELEVATED LANDFORMS",
+      "title": "___GRASS",
       "level": 4,
       "words": [
-        "DOUBLESPEAK",
-        "HEATHCLIFF",
-        "PARAMOUNT",
-        "PORRIDGE"
+        "BLUE",
+        "CRAB",
+        "LEMON",
+        "WHEAT"
       ]
     }
   ]
