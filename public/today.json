@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "WATERBIRDS",
+      "title": "INSTRUCT",
       "level": 1,
       "words": [
-        "COOT",
-        "GOOSE",
-        "LOON",
-        "TEAL"
+        "COACH",
+        "DIRECT",
+        "GUIDE",
+        "TRAIN"
       ]
     },
     {
-      "title": "INFORMANT",
+      "title": "PARTS OF A WHISTLING KETTLE",
       "level": 2,
       "words": [
-        "CANARY",
-        "RAT",
-        "SNITCH",
-        "STOOLIE"
+        "HANDLE",
+        "LID",
+        "SPOUT",
+        "WHISTLE"
       ]
     },
     {
-      "title": "COMMON SINGLE-USE PLASTIC ITEMS",
+      "title": "UNDERCOVER OPERATIVE",
       "level": 3,
       "words": [
-        "BAG",
-        "CUTLERY",
-        "STIRRER",
-        "STRAW"
+        "ASSET",
+        "MOLE",
+        "PLANT",
+        "SLEEPER"
       ]
     },
     {
-      "title": "___GRASS",
+      "title": "THINGS THAT APPEAR AT THE END",
       "level": 4,
       "words": [
-        "BLUE",
-        "CRAB",
-        "LEMON",
-        "WHEAT"
+        "CABOOSE",
+        "DECEMBER",
+        "DESSERT",
+        "EPILOGUE"
       ]
     }
   ]
