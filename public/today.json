@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "EMAIL BUTTONS",
+      "title": "DEMONSTRATIVES",
       "level": 1,
       "words": [
-        "COMPOSE",
-        "DRAFTS",
-        "SENT",
-        "SPAM"
+        "THAT",
+        "THESE",
+        "THIS",
+        "THOSE"
       ]
     },
     {
-      "title": "WAYS TO ATTRACT FISH",
+      "title": "EMBELLISHMENT",
       "level": 2,
       "words": [
-        "CHUM",
-        "FLY",
-        "SPINNER",
-        "WORM"
+        "ACCENT",
+        "DETAIL",
+        "FLOURISH",
+        "TOUCH"
       ]
     },
     {
-      "title": "CHESS VERBS",
+      "title": "OPTIONS ON A MULTIPLE CHOICE SURVEY",
       "level": 3,
       "words": [
-        "CAPTURE",
-        "CASTLE",
-        "CHECK",
-        "MATE"
+        "AGREE",
+        "DISAGREE",
+        "NEUTRAL",
+        "OTHER"
       ]
     },
     {
-      "title": "STARTS OF COMPOSERS' NAMES",
+      "title": "BEVERAGES WITH ACUTE ACCENTS REMOVED",
       "level": 4,
       "words": [
-        "BEET",
-        "BRAH",
-        "CHOP",
-        "VIVA"
+        "CAFE",
+        "PATRON",
+        "ROSE",
+        "THE"
       ]
     }
   ]
