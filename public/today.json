@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "SCULPTURE MEDIA",
+      "title": "THINGS WITH STALKS",
       "level": 1,
       "words": [
-        "BRONZE",
-        "CLAY",
-        "MARBLE",
-        "PLASTER"
+        "BAMBOO",
+        "CELERY",
+        "CORN",
+        "WHEAT"
       ]
     },
     {
-      "title": "RESTAURANT SEATING OPTIONS",
+      "title": "OYSTER CONDIMENTS",
       "level": 2,
       "words": [
-        "BANQUETTE",
-        "BOOTH",
-        "CHAIR",
-        "STOOL"
+        "HORSERADISH",
+        "LEMON",
+        "MIGNONETTE",
+        "TABASCO"
       ]
     },
     {
-      "title": "TELECOM",
+      "title": "DODGE MODELS",
       "level": 3,
       "words": [
-        "CARRIER",
-        "NETWORK",
-        "OPERATOR",
-        "PROVIDER"
+        "CHALLENGER",
+        "CHARGER",
+        "DURANGO",
+        "VIPER"
       ]
     },
     {
-      "title": "ENDING IN CHINESE DYNASTIES",
+      "title": "THREE LETTERS PLUS REPEATED TRIGRAMS",
       "level": 4,
       "words": [
-        "BBQING",
-        "HOMING",
-        "LOHAN",
-        "WU-TANG"
+        "ARKANSANS",
+        "CHIHUAHUA",
+        "POSSESSES",
+        "SPRINGING"
       ]
     }
   ]
