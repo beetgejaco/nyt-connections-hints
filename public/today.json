@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "THINGS WITH STALKS",
+      "title": "SECLUDED",
       "level": 1,
       "words": [
-        "BAMBOO",
-        "CELERY",
-        "CORN",
-        "WHEAT"
+        "HIDDEN",
+        "REMOTE",
+        "SECRET",
+        "TUCKED AWAY"
       ]
     },
     {
-      "title": "OYSTER CONDIMENTS",
+      "title": "RIVER FEATURES",
       "level": 2,
       "words": [
-        "HORSERADISH",
-        "LEMON",
-        "MIGNONETTE",
-        "TABASCO"
+        "DELTA",
+        "DRAINAGE BASIN",
+        "MOUTH",
+        "STREAM BED"
       ]
     },
     {
-      "title": "DODGE MODELS",
+      "title": "FIRST WORDS OF PIXAR FILMS",
       "level": 3,
       "words": [
-        "CHALLENGER",
-        "CHARGER",
-        "DURANGO",
-        "VIPER"
+        "FINDING",
+        "INSIDE",
+        "MONSTERS",
+        "TOY"
       ]
     },
     {
-      "title": "THREE LETTERS PLUS REPEATED TRIGRAMS",
+      "title": "PHRASES HIDING GREEK LETTERS",
       "level": 4,
       "words": [
-        "ARKANSANS",
-        "CHIHUAHUA",
-        "POSSESSES",
-        "SPRINGING"
+        "FREEZE TAG",
+        "HOME GAME",
+        "MODEL TANK",
+        "ORAL PHASE"
       ]
     }
   ]
