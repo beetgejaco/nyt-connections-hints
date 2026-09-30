@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "SECLUDED",
+      "title": "SECURITIES",
       "level": 1,
       "words": [
-        "HIDDEN",
-        "REMOTE",
-        "SECRET",
-        "TUCKED AWAY"
+        "BOND",
+        "FUTURE",
+        "OPTION",
+        "STOCK"
       ]
     },
     {
-      "title": "RIVER FEATURES",
+      "title": "THINGS THAT ARE SHAKEN (NOT STIRRED)",
       "level": 2,
       "words": [
-        "DELTA",
-        "DRAINAGE BASIN",
-        "MOUTH",
-        "STREAM BED"
+        "ETCH A SKETCH",
+        "MARTINI",
+        "SPRAY PAINT",
+        "TAMBOURINE"
       ]
     },
     {
-      "title": "FIRST WORDS OF PIXAR FILMS",
+      "title": "GANGSTER MOVIES",
       "level": 3,
       "words": [
-        "FINDING",
-        "INSIDE",
-        "MONSTERS",
-        "TOY"
+        "BUGSY",
+        "CASINO",
+        "DONNIE BRASCO",
+        "SCARFACE"
       ]
     },
     {
-      "title": "PHRASES HIDING GREEK LETTERS",
+      "title": "STARTING WITH MONTH ABBREVIATIONS",
       "level": 4,
       "words": [
-        "FREEZE TAG",
-        "HOME GAME",
-        "MODEL TANK",
-        "ORAL PHASE"
+        "DECENT",
+        "NOVELTY",
+        "OCTOPUSSY",
+        "SEPTUM"
       ]
     }
   ]
