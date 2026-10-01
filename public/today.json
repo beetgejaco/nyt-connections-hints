@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "SECURITIES",
+      "title": "PUT",
       "level": 1,
       "words": [
-        "BOND",
-        "FUTURE",
-        "OPTION",
-        "STOCK"
+        "PLACE",
+        "POSITION",
+        "SITUATE",
+        "STICK"
       ]
     },
     {
-      "title": "THINGS THAT ARE SHAKEN (NOT STIRRED)",
+      "title": "DRESS SHIRT MEASUREMENTS",
       "level": 2,
       "words": [
-        "ETCH A SKETCH",
-        "MARTINI",
-        "SPRAY PAINT",
-        "TAMBOURINE"
+        "CHEST",
+        "NECK",
+        "SLEEVE",
+        "WAIST"
       ]
     },
     {
-      "title": "GANGSTER MOVIES",
+      "title": "2000S INDIE ROCK BANDS, WITH \"THE\"",
       "level": 3,
       "words": [
-        "BUGSY",
-        "CASINO",
-        "DONNIE BRASCO",
-        "SCARFACE"
+        "DECEMBERISTS",
+        "NATIONAL",
+        "SHINS",
+        "WALKMEN"
       ]
     },
     {
-      "title": "STARTING WITH MONTH ABBREVIATIONS",
+      "title": "STARTS OF NYT PRINT PUZZLES",
       "level": 4,
       "words": [
-        "DECENT",
-        "NOVELTY",
-        "OCTOPUSSY",
-        "SEPTUM"
+        "ACRO",
+        "CROSS",
+        "KEN",
+        "SUD"
       ]
     }
   ]
