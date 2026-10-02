@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "PUT",
+      "title": "FINANCE",
       "level": 1,
       "words": [
-        "PLACE",
-        "POSITION",
-        "SITUATE",
-        "STICK"
+        "BACK",
+        "BANKROLL",
+        "FUND",
+        "SUPPORT"
       ]
     },
     {
-      "title": "DRESS SHIRT MEASUREMENTS",
+      "title": "FINGERS",
       "level": 2,
       "words": [
-        "CHEST",
-        "NECK",
-        "SLEEVE",
-        "WAIST"
+        "INDEX",
+        "LITTLE",
+        "MIDDLE",
+        "RING"
       ]
     },
     {
-      "title": "2000S INDIE ROCK BANDS, WITH \"THE\"",
+      "title": "CUSTOMARY",
       "level": 3,
       "words": [
-        "DECEMBERISTS",
-        "NATIONAL",
-        "SHINS",
-        "WALKMEN"
+        "COMMON",
+        "ROUTINE",
+        "STANDARD",
+        "STOCK"
       ]
     },
     {
-      "title": "STARTS OF NYT PRINT PUZZLES",
+      "title": "PRIME ___",
       "level": 4,
       "words": [
-        "ACRO",
-        "CROSS",
-        "KEN",
-        "SUD"
+        "NUMBER",
+        "REAL ESTATE",
+        "RIB",
+        "TIME"
       ]
     }
   ]
