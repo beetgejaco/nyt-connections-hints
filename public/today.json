@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "DECISIVE VICTORY",
+      "title": "USEFUL WHEN WRITING A PAPER",
       "level": 1,
       "words": [
-        "BLOWOUT",
-        "ROMP",
-        "ROUT",
-        "SWEEP"
+        "DRAFT",
+        "NOTES",
+        "OUTLINE",
+        "THESIS"
       ]
     },
     {
-      "title": "CONTROLLED BY A TV REMOTE",
+      "title": "PRESUME",
       "level": 2,
       "words": [
-        "CHANNEL",
-        "INPUT",
-        "POWER",
-        "VOLUME"
+        "FIGURE",
+        "GATHER",
+        "IMAGINE",
+        "SUPPOSE"
       ]
     },
     {
-      "title": "FEATURES OF A SPORTS SHOW",
+      "title": "SOCIAL MEDIA SECTIONS",
       "level": 3,
       "words": [
-        "HIGHLIGHTS",
-        "RECAP",
-        "SCORES",
-        "STATS"
+        "FEED",
+        "MESSAGES",
+        "NOTIFICATIONS",
+        "PROFILE"
       ]
     },
     {
-      "title": "AIR ___",
+      "title": "___BOXING",
       "level": 4,
       "words": [
-        "CONDITIONER",
-        "GUITAR",
-        "KISS",
-        "QUOTES"
+        "BEAT",
+        "KICK",
+        "SHADOW",
+        "UN"
       ]
     }
   ]
