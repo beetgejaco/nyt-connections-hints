@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "DIGITAL NOTIFICATIONS",
+      "title": "PLACES TO STORE CLOTHES",
       "level": 1,
       "words": [
-        "ALERT",
-        "CHIME",
-        "DING",
-        "PING"
+        "BUREAU",
+        "CHEST",
+        "TRUNK",
+        "WARDROBE"
       ]
     },
     {
-      "title": "PHOTO",
+      "title": "THINGS THAT COME IN STICKS",
       "level": 2,
       "words": [
-        "PRINT",
-        "SHOT",
-        "SNAP",
-        "STILL"
+        "BUTTER",
+        "DEODORANT",
+        "DYNAMITE",
+        "INCENSE"
       ]
     },
     {
-      "title": "KINDS OF CRABS",
+      "title": "FAMOUS PERFUMES",
       "level": 3,
       "words": [
-        "FIDDLER",
-        "HERMIT",
-        "KING",
-        "SNOW"
+        "ANGEL",
+        "COCO",
+        "OBSESSION",
+        "OPIUM"
       ]
     },
     {
-      "title": "LA ___",
+      "title": "STARTING WITH THINGS THAT CLOUD THE AIR",
       "level": 4,
       "words": [
-        "BOHÈME",
-        "BREA",
-        "PAZ",
-        "SCALA"
+        "FOGERTY",
+        "HAZEL",
+        "MISTER",
+        "VAPORETTO"
       ]
     }
   ]
