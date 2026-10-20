@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "SEETHE",
+      "title": "FINISH",
       "level": 1,
       "words": [
-        "BOIL",
-        "FUME",
-        "RAVE",
-        "STEAM"
+        "CLOSE",
+        "END",
+        "STOP",
+        "WRAP"
       ]
     },
     {
-      "title": "ALL TALK",
+      "title": "LACKEY",
       "level": 2,
       "words": [
-        "BLATHER",
-        "GAS",
-        "HOT AIR",
-        "WIND"
+        "MINION",
+        "POODLE",
+        "PUPPET",
+        "STOOGE"
       ]
     },
     {
-      "title": "\"MC\" THINGS AT MCDONALD'S",
+      "title": "MUSTACHES",
       "level": 3,
       "words": [
-        "FLURRY",
-        "MUFFIN",
-        "NUGGETS",
-        "RIB"
+        "CHEVRON",
+        "HORSESHOE",
+        "PENCIL",
+        "WALRUS"
       ]
     },
     {
-      "title": "ENDING IN BIRDS",
+      "title": "HOMOPHONES OF DISNEY CHARACTERS",
       "level": 4,
       "words": [
-        "ALIBIS",
-        "BALLOON",
-        "ESCROW",
-        "MOHAWK"
+        "ARIAL",
+        "BELL",
+        "DOCK",
+        "MINI"
       ]
     }
   ]
