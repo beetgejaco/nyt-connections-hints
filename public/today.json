@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "FINISH",
+      "title": "CLASSIC CHILDREN'S GAMES",
       "level": 1,
       "words": [
-        "CLOSE",
-        "END",
-        "STOP",
-        "WRAP"
+        "DUCK DUCK GOOSE",
+        "HOT POTATO",
+        "LEAPFROG",
+        "MUSICAL CHAIRS"
       ]
     },
     {
-      "title": "LACKEY",
+      "title": "IMPORTANT PERSON",
       "level": 2,
       "words": [
-        "MINION",
-        "POODLE",
-        "PUPPET",
-        "STOOGE"
+        "ALPHA DOG",
+        "BIG CHEESE",
+        "HEAVYWEIGHT",
+        "TOP BANANA"
       ]
     },
     {
-      "title": "MUSTACHES",
+      "title": "FAMOUS PAINTINGS",
       "level": 3,
       "words": [
-        "CHEVRON",
-        "HORSESHOE",
-        "PENCIL",
-        "WALRUS"
+        "AMERICAN GOTHIC",
+        "CAMPBELL'S SOUP CAN",
+        "SUNFLOWERS",
+        "THE SCREAM"
       ]
     },
     {
-      "title": "HOMOPHONES OF DISNEY CHARACTERS",
+      "title": "DOUBLE MISNOMERS (NEITHER WORD IS AN ACCURATE DESCRIPTION)",
       "level": 4,
       "words": [
-        "ARIAL",
-        "BELL",
-        "DOCK",
-        "MINI"
+        "ENGLISH HORN",
+        "GRAPE-NUTS",
+        "MANTIS SHRIMP",
+        "SWEETBREAD"
       ]
     }
   ]
