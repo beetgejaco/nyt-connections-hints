@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "MESS (WITH)",
+      "title": "ROMANTIC LIKING",
       "level": 1,
       "words": [
-        "FIDDLE",
-        "MEDDLE",
-        "TINKER",
-        "TRIFLE"
+        "ATTRACTION",
+        "CRUSH",
+        "FEELINGS",
+        "INTEREST"
       ]
     },
     {
-      "title": "PARTS OF THE EAR",
+      "title": "COMPONENTS OF AN EMAIL",
       "level": 2,
       "words": [
-        "ANVIL",
-        "CANAL",
-        "DRUM",
-        "STIRRUP"
+        "ATTACHMENT",
+        "BODY",
+        "SIGNATURE",
+        "SUBJECT"
       ]
     },
     {
-      "title": "___ BELL",
+      "title": "NASA MARS ROVERS",
       "level": 3,
       "words": [
-        "DIVING",
-        "JINGLE",
-        "LIBERTY",
-        "TACO"
+        "CURIOSITY",
+        "OPPORTUNITY",
+        "PERSEVERANCE",
+        "SPIRIT"
       ]
     },
     {
-      "title": "BELL ___",
+      "title": "HOMOPHONES OF PATHS",
       "level": 4,
       "words": [
-        "BOTTOMS",
-        "JAR",
-        "PEPPER",
-        "TOWER"
+        "COARSE",
+        "RODE",
+        "ROUT",
+        "WEIGH"
       ]
     }
   ]
