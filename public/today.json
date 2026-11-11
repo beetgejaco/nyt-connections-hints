@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "HUBBUB",
+      "title": "KINDS OF MEDICINE",
       "level": 1,
       "words": [
-        "BROUHAHA",
-        "FOOFARAW",
-        "HULLABALOO",
-        "KERFUFFLE"
+        "FOLK",
+        "HERBAL",
+        "HOLISTIC",
+        "TRADITIONAL"
       ]
     },
     {
-      "title": "LITERARY DEVICES",
+      "title": "PARTS OF A GOLF COURSE",
       "level": 2,
       "words": [
-        "HYPERBOLE",
-        "METONYMY",
-        "ONOMATOPOEIA",
-        "OXYMORON"
+        "GREEN",
+        "ROUGH",
+        "SAND TRAP",
+        "TEE BOX"
       ]
     },
     {
-      "title": "OLD-TIMEY OCCUPATIONS",
+      "title": "THINGS FILLED WITH AIR",
       "level": 3,
       "words": [
-        "APOTHECARY",
-        "HABERDASHER",
-        "SCRIVENER",
-        "WAINWRIGHT"
+        "AIR MATTRESS",
+        "BUBBLE",
+        "TIRE",
+        "WHOOPIE CUSHION"
       ]
     },
     {
-      "title": "WORDS WITH FIVE OF ONE VOWEL",
+      "title": "ENDING IN PALINDROMES",
       "level": 4,
       "words": [
-        "ABRACADABRA",
-        "BEEKEEPER",
-        "INVISIBILITY",
-        "PROTOZOOLOGY"
+        "AFTERNOON",
+        "PATOOT",
+        "RHEOSTATS",
+        "SHREDDER"
       ]
     }
   ]
