@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "\"GADZOOKS!\"",
+      "title": "USE THE INTERNET",
       "level": 1,
       "words": [
-        "GOOD HEAVENS",
-        "GREAT SCOTT",
-        "HOLY SMOKES",
-        "JIMINY CRICKET"
+        "BROWSE",
+        "SCROLL",
+        "SEARCH",
+        "SURF"
       ]
     },
     {
-      "title": "STARTING WITH VARIATIONS",
+      "title": "MEDIA ATTENTION",
       "level": 2,
       "words": [
-        "CHANGE PURSE",
-        "FLUX CAPACITOR",
-        "SHIFT DRESS",
-        "SWING SET"
+        "COVERAGE",
+        "EXPOSURE",
+        "PRESS",
+        "PUBLICITY"
       ]
     },
     {
-      "title": "ENDING IN WAYS TO COOK THINGS",
+      "title": "THINGS THAT ARE TOWED",
       "level": 3,
       "words": [
-        "ARCTIC CHAR",
-        "COMEDY ROAST",
-        "DOC BROWN",
-        "YOU'RE TOAST"
+        "BARGE",
+        "GLIDER",
+        "TRAILER",
+        "WATER SKIER"
       ]
     },
     {
-      "title": "STARTING WITH BEST PICTURE OSCAR WINNERS",
+      "title": "BRAIN ___",
       "level": 4,
       "words": [
-        "GLADIATOR SANDALS",
-        "MARTY MCFLY",
-        "MOONLIGHT SONATA",
-        "ROCKY ROAD"
+        "FREEZE",
+        "TEASER",
+        "TRUST",
+        "WAVES"
       ]
     }
   ]
