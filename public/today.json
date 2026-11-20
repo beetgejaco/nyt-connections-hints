@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "MAKE A HOLE IN THE GROUND",
+      "title": "PERSON WHO EXCELS AT SOMETHING",
       "level": 1,
       "words": [
-        "BORE",
-        "BURROW",
-        "DIG",
-        "TUNNEL"
+        "ACE",
+        "BEAST",
+        "MAVEN",
+        "WIZARD"
       ]
     },
     {
-      "title": "MATERIALS OBTAINED FROM TREES",
+      "title": "NOTICE",
       "level": 2,
       "words": [
-        "CORK",
-        "RESIN",
-        "SAP",
-        "WOOD"
+        "CATCH",
+        "CLOCK",
+        "REGISTER",
+        "SPOT"
       ]
     },
     {
-      "title": "PARTS OF AN ELECTRICAL APPLIANCE",
+      "title": "DESCRIPTORS FOR SMALL ANIMALS",
       "level": 3,
       "words": [
-        "CORD",
-        "HOUSING",
-        "PLUG",
-        "SWITCH"
+        "MINIATURE",
+        "POCKET",
+        "TEACUP",
+        "TOY"
       ]
     },
     {
-      "title": "START AND END WITH THE SAME THREE LETTERS",
+      "title": "ENDING IN LINGERIE",
       "level": 4,
       "words": [
-        "EINSTEIN",
-        "GALANGAL",
-        "HOTSHOT",
-        "UNDERGROUND"
+        "CANDELABRA",
+        "COWSLIP",
+        "DIPHTHONG",
+        "STUTTGARTER"
       ]
     }
   ]
