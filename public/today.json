@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "PERSON WHO EXCELS AT SOMETHING",
+      "title": "KINDS OF COOKIES",
       "level": 1,
       "words": [
-        "ACE",
-        "BEAST",
-        "MAVEN",
-        "WIZARD"
+        "BLACK AND WHITE",
+        "BUTTER",
+        "GIRL SCOUT",
+        "SUGAR"
       ]
     },
     {
-      "title": "NOTICE",
+      "title": "THINGS RATED IN A CUSTOMER SURVEY",
       "level": 2,
       "words": [
-        "CATCH",
-        "CLOCK",
-        "REGISTER",
-        "SPOT"
+        "COURTESY",
+        "HELPFULNESS",
+        "SATISFACTION",
+        "WAIT TIME"
       ]
     },
     {
-      "title": "DESCRIPTORS FOR SMALL ANIMALS",
+      "title": "TAROT CARDS, WITH \"THE\"",
       "level": 3,
       "words": [
-        "MINIATURE",
-        "POCKET",
-        "TEACUP",
-        "TOY"
+        "DEVIL",
+        "EMPRESS",
+        "FOOL",
+        "HIEROPHANT"
       ]
     },
     {
-      "title": "ENDING IN LINGERIE",
+      "title": "HOLD YOUR ___",
       "level": 4,
       "words": [
-        "CANDELABRA",
-        "COWSLIP",
-        "DIPHTHONG",
-        "STUTTGARTER"
+        "BREATH",
+        "HORSES",
+        "OWN",
+        "TONGUE"
       ]
     }
   ]
