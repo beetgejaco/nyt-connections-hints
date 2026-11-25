@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "DROP DRAMATICALLY",
+      "title": "PARTS OF A FREEWAY",
       "level": 1,
       "words": [
-        "BOTTOM OUT",
-        "CRATER",
-        "NOSEDIVE",
-        "TANK"
+        "LANE",
+        "MEDIAN",
+        "RAMP",
+        "SHOULDER"
       ]
     },
     {
-      "title": "THINGS WITH PLEATED FOLDS",
+      "title": "U-SHAPED THINGS",
       "level": 2,
       "words": [
-        "ACCORDION",
-        "CUPCAKE LINER",
-        "FIREPLACE BELLOWS",
-        "PAPER FAN"
+        "HALF-PIPE",
+        "HORSESHOE",
+        "NECK PILLOW",
+        "PARABOLA"
       ]
     },
     {
-      "title": "THINGS WITH SLIDES",
+      "title": "RUG SPECIFICATIONS",
       "level": 3,
       "words": [
-        "MICROSCOPE",
-        "PLAYGROUND",
-        "POWERPOINT DECK",
-        "TROMBONE"
+        "DIMENSIONS",
+        "MATERIAL",
+        "PILE",
+        "WEAVE"
       ]
     },
     {
-      "title": "THINGS THAT FORM CHAINS",
+      "title": "DOGS BREEDS MINUS FIRST LETTER",
       "level": 4,
       "words": [
-        "AMINO ACID",
-        "BIG BOX STORE",
-        "LINK",
-        "MOUNTAIN"
+        "EAGLE",
+        "OBERMAN",
+        "OLLIE",
+        "OODLE"
       ]
     }
   ]
