@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "editor": "Wyna Liu",
   "categories": [
     {
-      "title": "PARTS OF A FREEWAY",
+      "title": "SHADES OF PINK",
       "level": 1,
       "words": [
-        "LANE",
-        "MEDIAN",
-        "RAMP",
-        "SHOULDER"
+        "BLUSH",
+        "BUBBLEGUM",
+        "CARNATION",
+        "CORAL"
       ]
     },
     {
-      "title": "U-SHAPED THINGS",
+      "title": "KINDS OF CARS",
       "level": 2,
       "words": [
-        "HALF-PIPE",
-        "HORSESHOE",
-        "NECK PILLOW",
-        "PARABOLA"
+        "COMPACT",
+        "CONVERTIBLE",
+        "HYBRID",
+        "MANUAL"
       ]
     },
     {
-      "title": "RUG SPECIFICATIONS",
+      "title": "THINGS HOMER SIMPSON LIKES",
       "level": 3,
       "words": [
-        "DIMENSIONS",
-        "MATERIAL",
-        "PILE",
-        "WEAVE"
+        "BEER",
+        "BOWLING",
+        "DONUTS",
+        "TELEVISION"
       ]
     },
     {
-      "title": "DOG BREEDS MINUS FIRST LETTER",
+      "title": "THINGS THAT ARE POPPED",
       "level": 4,
       "words": [
-        "EAGLE",
-        "OBERMAN",
-        "OLLIE",
-        "OODLE"
+        "BOTTLE OF CHAMPAGNE",
+        "POPCORN",
+        "THE QUESTION",
+        "WHEELIE"
       ]
     }
   ]
